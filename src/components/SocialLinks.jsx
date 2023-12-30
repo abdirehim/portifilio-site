@@ -9,10 +9,10 @@ const SocialLinks = () => {
       id: 1,
       child: (
         <>
-          LinkedIn <FaLinkedin size={30} />
+          LinkedIn < FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/abdrehim-shemsu-13213425a",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/abdukhan/",
+      href: "https://github.com/abdirehim/",
     },
     {
       id: 3,
@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "src/assets/resume2.pdf",
       style: "rounded-br-md",
       download: true,
     },

@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/heroImage.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -12,13 +12,13 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-2xl sm:text-5xl font-bold text-white">
-         I'm a junier website developer 
+         I'm a full-stack developer 
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-            I study information system in UOG university .
-             I love to work on web application using technologies like
-            React, Tailwind, Next JS and css html read.
-            Ilove to learn more language.
+          <p className="text-gray-500 py-4 max-w-md ">
+            Dedicated and motivated  full stack developer,
+            seeking a challenging position to contribute my skills and knowledge in web and mobile application development.
+            I love to work on web application using technologies like
+            React, Tailwind, django Rest-FrameWork and Css Html javascript.
           </p>
 
           <div>
@@ -40,7 +40,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2x1 mx-auto w-2/3 md:w-half"
+            className="rounded-2x1 mx-auto w-2/4 h-2/4 md:w-half"
           />
         </div>
       </div>

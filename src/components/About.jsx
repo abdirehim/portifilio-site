@@ -14,19 +14,20 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          My name is Abdrehim i am astudent of inforamation system
-          in gonder university. iam ajunior full stack developer 
-          with a diverse range of skills including React, , Python, Java,
-         c# ,php ,html and javascript.
+       My name is Abdrehim Shemsu,a full-stack developer specializing in React.js, React Native, Django Rest Framework, and Python. I graduated from Gondar University with a degree in Information Systems.
+
+       Passionate about creating innovative software solutions, I enjoy building responsive web interfaces and developing RESTful APIs. I thrive in collaborative, agile environments and have experience working on team projects.
+
+       Constantly learning and staying updated with the latest technologies, I'm dedicated to creating user-centric applications that make a positive impact. Detail-oriented and a problem solver, I'm excited to contribute my skills to cutting-edge projects.
+
 
         </p>
 
         <br />
 
         <p className="text-xl">
-        Sometimes an online resume is all you really need. 
-        Clean typography and a straightforward, to-the-point, single-scroll
-         homepage help place broad technical skills front and center.
+        I'm actively seeking opportunities to join a dynamic team where I can grow and further expand my expertise. Thank you for visiting my portfolio, and I invite you to explore my projects. Feel free to reach out for potential collaborations or opportunities.
+
           
         </p>
       </div>
