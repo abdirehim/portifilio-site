@@ -6,7 +6,7 @@ const About = () => {
       name="about"
       className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full  ">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-       My name is Abdrehim Shemsu,a full-stack developer specializing in React.js, React Native, Django Rest Framework, and Python. I graduated from Gondar University with a degree in Information Systems.
+       My name is Abdrehim Shemsu, a full-stack developer specializing in React.js, React Native, Django Rest Framework, and Python. I graduated from Gondar University with a degree in Information Systems with GBA:3.7.
 
        Passionate about creating innovative software solutions, I enjoy building responsive web interfaces and developing RESTful APIs. I thrive in collaborative, agile environments and have experience working on team projects.
 
