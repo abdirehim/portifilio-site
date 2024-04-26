@@ -18,8 +18,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: caretech,
-      href:'',
-      link:''
+      href:'https://ab-caretech-solution.vercel.app/',
+      link:'https://github.com/abdirehim/ab-caretech-solution'
     },
     {
       id: 3,
