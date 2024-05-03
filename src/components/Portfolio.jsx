@@ -6,6 +6,7 @@ import caretech from "../assets/caretech.png";
 import guragezone from "../assets/guragezone.png";
 // import todoapp from "../assets/todoapp.png";
 // import { Link } from "react-scroll";
+import realestate from '../assets/realestate.png'
 
 const Portfolio = () => {
   const portfolios = [
@@ -29,7 +30,7 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: RealEstate,
+      src: realestate,
       href:'https://rent-up-real-estate.vercel.app/',
       link:"https://github.com/abdirehim/RentUP-RealEstate"
     },
